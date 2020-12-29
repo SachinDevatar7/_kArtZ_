@@ -43,3 +43,19 @@ It has a lot more features than above mentioned.
 
 <img width="1673" alt="Screen Shot 2020-12-29 at 4 51 39 PM" src="https://user-images.githubusercontent.com/55271757/103319657-28ca5d80-49f8-11eb-9794-a14d76288d64.png">
 
+<img width="1678" alt="Screen Shot 2020-12-29 at 4 52 22 PM" src="https://user-images.githubusercontent.com/55271757/103319695-5911fc00-49f8-11eb-8d2d-e045ac03df17.png">
+
+<img width="1675" alt="Screen Shot 2020-12-29 at 4 52 36 PM" src="https://user-images.githubusercontent.com/55271757/103319697-5adbbf80-49f8-11eb-9d38-78e7817af4c7.png">
+
+<img width="1680" alt="Screen Shot 2020-12-29 at 4 52 48 PM" src="https://user-images.githubusercontent.com/55271757/103319704-5f07dd00-49f8-11eb-97db-57b9362e407d.png">
+
+<img width="1679" alt="Screen Shot 2020-12-29 at 4 54 38 PM" src="https://user-images.githubusercontent.com/55271757/103319711-64652780-49f8-11eb-8af4-877dc0ec9ddb.png">
+
+<img width="1676" alt="Screen Shot 2020-12-29 at 4 54 50 PM" src="https://user-images.githubusercontent.com/55271757/103319727-73e47080-49f8-11eb-9484-9f30e0e9b290.png">
+
+<img width="1680" alt="Screen Shot 2020-12-29 at 4 56 33 PM" src="https://user-images.githubusercontent.com/55271757/103319730-78a92480-49f8-11eb-9c4d-63b269fe6402.png">
+
+<img width="1677" alt="Screen Shot 2020-12-29 at 4 58 34 PM" src="https://user-images.githubusercontent.com/55271757/103319732-7a72e800-49f8-11eb-8e14-d348146642a3.png">
+
+<img width="841" alt="Screen Shot 2020-12-29 at 4 58 46 PM" src="https://user-images.githubusercontent.com/55271757/103319735-7cd54200-49f8-11eb-8eb3-1d71c0eb192e.png">
+
