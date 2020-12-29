@@ -26,3 +26,11 @@
 It has a lot more features than above mentioned.
 
 **Technology Stack:  Javascript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas.**
+
+**ScreenShot of kArtZ Application**
+
+<img width="1668" alt="Screen Shot 2020-12-29 at 4 48 47 PM" src="https://user-images.githubusercontent.com/55271757/103319481-aa6dbb80-49f7-11eb-9eb7-a7650c120ed6.png">
+
+
+<img width="1676" alt="Screen Shot 2020-12-29 at 4 48 59 PM" src="https://user-images.githubusercontent.com/55271757/103319522-cc673e00-49f7-11eb-9771-8f65fb245637.png">
+
