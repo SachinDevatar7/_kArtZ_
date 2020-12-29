@@ -1,6 +1,6 @@
 # kArtZ
 
-**About the Project:**
+## **About the Project:**
 
 - A scalable E-commerce web application similar to Amazon & Walmart where users can purchase any item.
 
@@ -12,7 +12,7 @@
 
 - With the making of this application, I get introduced to Stripe for handling Payments. 
 
-**Some snippet of features are :**
+## **Some snippet of features are :**
 
 - Wrote Functional Components with React Hooks
 - Handling File Upload
@@ -25,9 +25,21 @@
 
 It has a lot more features than above mentioned.
 
-**Technology Stack:  Javascript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas.**
 
-**ScreenShot of kArtZ Application**
+## **To Run**
+
+```bash
+$ npm install
+```
+
+```bash
+$ npm run dev
+```
+
+
+## **Technology Stack:  Javascript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas.**
+
+## **ScreenShot of kArtZ Application**
 
 <img width="1668" alt="Screen Shot 2020-12-29 at 4 48 47 PM" src="https://user-images.githubusercontent.com/55271757/103319481-aa6dbb80-49f7-11eb-9eb7-a7650c120ed6.png">
 
