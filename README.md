@@ -37,7 +37,7 @@ $ npm run dev
 ```
 
 
-## **Technology Stack:  Javascript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas.**
+**Technology Stack:  Javascript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas.**
 
 ## **ScreenShot of kArtZ Application**
 
