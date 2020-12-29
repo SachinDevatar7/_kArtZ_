@@ -12,7 +12,7 @@
 
 - With the making of this application, I get introduced to Stripe for handling Payments. 
 
-## **Some snippet of features are :**
+## **Some Snippet of Features are :**
 
 - Wrote Functional Components with React Hooks
 - Handling File Upload
