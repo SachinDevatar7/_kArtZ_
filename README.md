@@ -33,3 +33,13 @@ It has a lot more features than above mentioned.
 
 <img width="1676" alt="Screen Shot 2020-12-29 at 4 48 59 PM" src="https://user-images.githubusercontent.com/55271757/103319522-cc673e00-49f7-11eb-9771-8f65fb245637.png">
 
+<img width="1679" alt="Screen Shot 2020-12-29 at 4 50 11 PM" src="https://user-images.githubusercontent.com/55271757/103319609-fc164600-49f7-11eb-9a9f-b0197120f9f5.png">
+
+<img width="1673" alt="Screen Shot 2020-12-29 at 4 50 27 PM" src="https://user-images.githubusercontent.com/55271757/103319627-0fc1ac80-49f8-11eb-967f-b60b9d32a019.png">
+
+<img width="1678" alt="Screen Shot 2020-12-29 at 4 50 48 PM" src="https://user-images.githubusercontent.com/55271757/103319651-2405a980-49f8-11eb-8f8a-28feb0ed126a.png">
+
+<img width="1679" alt="Screen Shot 2020-12-29 at 4 51 14 PM" src="https://user-images.githubusercontent.com/55271757/103319654-25cf6d00-49f8-11eb-9f9d-1b72a0adf6fa.png">
+
+<img width="1673" alt="Screen Shot 2020-12-29 at 4 51 39 PM" src="https://user-images.githubusercontent.com/55271757/103319657-28ca5d80-49f8-11eb-9794-a14d76288d64.png">
+
