@@ -4,7 +4,7 @@
 
 - A scalable E-commerce web application similar to Amazon & Walmart where users can purchase any item.
 
-- This experience is absolutely amazing and it gives me loads of must-have knowledge and confidence to start off my next big project using the latest Technology that is MERN Stack.
+- This experience is absolutely amazing and it gives me loads of must-have knowledge and confidence to start off my next big project using the latest Technology.
 
 - I have also used the latest React Hooks which is an absolute joy. The code will be so much simplified and readable, that I didn't believe it.
 
@@ -37,7 +37,7 @@ $ npm run dev
 ```
 
 
-**Technology Stack:  Javascript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas.**
+**Technology Stack:  Javascript, ReactJS, NodeJS, Axios, MongoDB Atlas.**
 
 ## **ScreenShot of kArtZ Application**
 
